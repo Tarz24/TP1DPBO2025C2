@@ -4,7 +4,7 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
 
 ## Pet Shop Management System
-Program ini adalah sistem manajemen berbasis console yang dibuat menggunakan bahasa Java. Program mengimplementasikan struktur data LinkedList untuk menyimpan dan mengelola data produk pet shop secara dinamis.
+Program ini adalah sistem manajemen berbasis console yang dibuat menggunakan bahasa CPP, Python, Java, PHP. Program mengimplementasikan struktur data untuk menyimpan dan mengelola data produk pet shop secara dinamis.
 Fitur Program
 Program ini menyediakan 6 fitur utama:
 
